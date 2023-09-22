@@ -18,6 +18,7 @@
 - [ ] 适配器模式
 
 # react-patterns
+- [x] container/presentation pattern
 
 # performance-patterns
 
