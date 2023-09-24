@@ -20,6 +20,7 @@
 # react-patterns
 - [x] container/presentation pattern
 - [x] hoc pattern
+- [x] render props
 
 # performance-patterns
 
