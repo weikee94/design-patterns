@@ -21,6 +21,7 @@
 - [x] container/presentation pattern
 - [x] hoc pattern
 - [x] render props
+- [x] hook pattern
 
 # performance-patterns
 
