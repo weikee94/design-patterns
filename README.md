@@ -23,6 +23,7 @@
 - [x] render props
 - [x] hook pattern
 - [x] provider pattern
+- [x] compound pattern
 
 # performance-patterns
 
