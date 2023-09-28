@@ -26,5 +26,6 @@
 - [x] compound pattern
 
 # performance-patterns
+- [x] bundlig and compiling
 
 # rendering-patterns 
