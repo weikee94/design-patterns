@@ -27,5 +27,15 @@
 
 # performance-patterns
 - [x] bundlig and compiling
+- [x] static import
+- [x] dynamic import
+- [x] import on visibility
+- [x] route based splitting
+- [x] brower hints 
 
 # rendering-patterns 
+- [x] client-side rendering
+- [x] static rendering
+- [x] incremental static regeneration
+- [x] server side rendering
+- [x] streaming ssr
