@@ -39,3 +39,7 @@
 - [x] incremental static regeneration
 - [x] server side rendering
 - [x] streaming ssr
+
+# vue-patterns
+- [x] vendor component wrapper
+- [x] transparent component
