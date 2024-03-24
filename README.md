@@ -43,3 +43,10 @@
 # vue-patterns
 - [x] vendor component wrapper
 - [x] transparent component
+
+# Links
+
+| Author | Links |
+| ------ | ----- |
+| fbeline | https://github.com/fbeline/design-patterns-JS |
+
